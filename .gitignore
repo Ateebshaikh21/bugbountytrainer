@@ -1,0 +1,60 @@
+# ── Seller-only tools (never commit) ─────────────────────────────────────────
+keygen.py
+build_release.py
+
+# ── Secrets & environment ─────────────────────────────────────────────────────
+.env
+*.env
+.env.*
+config.local.py
+
+# ── Runtime-generated license & progress data ─────────────────────────────────
+data/.license.json
+data/valid_keys.json
+data/progress.json
+data/exam_report.json
+data/reports/*
+!data/reports/.gitkeep
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+.env/
+
+# ── OS junk ───────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ── Recon output ──────────────────────────────────────────────────────────────
+recon_results/
+
+# ── Distribution / build output ───────────────────────────────────────────────
+*.zip
+*.tar.gz
+dist/
+build/
+
+# ── Local databases ───────────────────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log

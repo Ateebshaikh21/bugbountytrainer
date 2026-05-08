@@ -1,0 +1,8 @@
+# Normalize line endings to LF for all text files
+# (project targets Kali Linux — shell scripts must have LF)
+* text=auto eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
