@@ -9,7 +9,7 @@ import os as _os
 # ── Dodo Payments ─────────────────────────────────────────────────────────────
 
 DODO_PRODUCT_NAME = "Bug Bounty Trainer"
-DODO_PURCHASE_URL = "https://dodopayments.com"  # replace with your Dodo payment link
+DODO_PURCHASE_URL = "https://checkout.dodopayments.com/buy/pdt_0NeO8euWOWsLpvSZTH6f8?quantity=1"
 
 # ── License Security ──────────────────────────────────────────────────────────
 

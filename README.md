@@ -153,6 +153,8 @@ bugbountytrainer/
 This is a **paid course**. Level 1 (Recon) is free — no key needed.
 Full access requires a license key purchased via Dodo Payments.
 
+👉 **[Buy Full Access](https://checkout.dodopayments.com/buy/pdt_0NeO8euWOWsLpvSZTH6f8?quantity=1)**
+
 | Tier | Access |
 |---|---|
 | Free Preview | Level 1 — Recon (5 tasks) |
